@@ -11,11 +11,29 @@
 
 
 # Clips on Interaction with Deployed Smart Contract
+# Blank Transaction
 
-![alt text](https://raw.githubusercontent.com/wdriera33/PyChain-Ledger/main/Pic%20Clips/PyChain_Clip_1.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/CleanAccount.png "Logo Title Text 1")
 
-![alt text](https://raw.githubusercontent.com/wdriera33/PyChain-Ledger/main/Pic%20Clips/PyChain_Clip_2.png "Logo Title Text 1")
+# Deposit 1 ether as wei
 
+![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/1EtherasWei.png "Logo Title Text 1")
+
+# Deposit 10 ether as wei
+
+![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/10EtherasWei.png "Logo Title Text 1")
+
+# Deposit 5 ether as wei
+
+![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/5EtherasWei.png "Logo Title Text 1")
+
+# Withdraw 5 ether accountOne
+
+![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/WD5etheracc1.png "Logo Title Text 1")
+
+# Withdraw 10 ether accountTwo
+
+![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/WD10etheracc2.png "Logo Title Text 1")
 
 
 # Overview 
@@ -23,11 +41,6 @@
 * Create a joint savings account accepting 2 user addresses
 * Ether management functions
 * Ability to deposit and withdraw funds
-
-
-
-# Recommendations
-* 
 
 
 ##  Preparation
