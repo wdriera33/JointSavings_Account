@@ -1,15 +1,16 @@
 # JointSavings_Account
 
-![alt text](https://raw.githubusercontent.com/wdriera33/PyChain-Ledger/main/blockchain.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/pngwing.com.png "Logo Title Text 1")
 
-# Create Blocks Functionality
-* 
+# Solidity
+* Remix IDE 
+* JavaScript VM
+* Compile and Deploy Your Contract in the JavaScript VM
+* Interact with Your Deployed Smart Contract
 
-# Libraries use for Script
-* 
 
 
-# Clips on PyChain Ledger Tested by Storing Records
+# Clips on Interaction with Deployed Smart Contract
 
 ![alt text](https://raw.githubusercontent.com/wdriera33/PyChain-Ledger/main/Pic%20Clips/PyChain_Clip_1.png "Logo Title Text 1")
 
@@ -18,15 +19,15 @@
 
 
 # Overview 
-* Create a Record Data Class
-* Modify the Existing Block Data Class to Store Record Data
-* Add Relevant User Inputs to the Streamlit Interface
-* Test the PyChain Ledger by Storing Records
+* Created smart contract in Solidity
+* Create a joint savings account accepting 2 user addresses
+* Ether management functions
+* Ability to deposit and withdraw funds
 
 
 
 # Recommendations
-* Add a search bar to find creator_Id with date
+* 
 
 
 ##  Preparation
