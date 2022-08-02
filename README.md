@@ -29,11 +29,11 @@
 
 # Withdraw 5 ether accountOne
 
-![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/WD5etheracc1.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/WD5etheraccOne.png "Logo Title Text 1")
 
 # Withdraw 10 ether accountTwo
 
-![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/WD10etheracc2.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/JointSavings_Account/main/Execution_Results/WD10etheraccTwo.png "Logo Title Text 1")
 
 
 # Overview 
